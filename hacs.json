@@ -1,5 +1,6 @@
 {
-    "name": "Bar Card",
-    "render_readme": true,
-    "filename": "bar-card.js"
+  "name": "Bar Card",
+  "content_in_root": true,
+  "filename": "bar-card.js",
+  "type": "module"
 }
